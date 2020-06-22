@@ -1,0 +1,411 @@
+body{
+  background-color:	#1c2431;
+  margin: 0;
+  position: relative;
+  font-size: 14px;
+}
+p{
+  font-family: 'Open Sans', sans-serif;
+}
+
+.fylo{
+  position: absolute;
+  top: 60px;
+  width: 1440px;
+}
+.fyloimg{
+  position: absolute;
+  left: 60px;
+}
+.features{
+  display: inline-block;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  position: absolute;
+  right: 270px;
+}
+.team{
+  display: inline-block;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  position: absolute;
+  right: 170px;
+}
+.sign-in{
+  display: inline-block;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  position: absolute;
+  right: 70px;
+}
+.center{
+  position: absolute;
+  top: 120px;
+  left: 370px;
+}
+.intro{
+  color: white;
+  text-align: center;
+  position: absolute;
+  left:150px;
+  width: 500px;
+  margin-top: 30px;
+}
+h3{
+  font-family: 'Raleway', sans-serif;
+
+}
+h1{
+
+  line-height: 1.5;
+  font-family: 'Raleway', sans-serif;
+}
+.intro1{
+
+  line-height: 1.5;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+.get-started{
+  height: 50px;
+  width: 40%;
+  background-image: linear-gradient(to right,#65e2d9,#339ecc);
+  border-radius: 50px;
+  position: absolute;
+  margin-top: 10px;
+  left: 150px;
+}
+.gs1{
+
+  font-weight: 700;
+  font-family: 'Raleway', sans-serif;
+  position: absolute;
+  left: 60px;
+}
+.main{
+  width: 1440px;
+  position: absolute;
+  top: 1230px;
+  height: 2300px;
+  background-color: #181f2a;
+}
+.design{
+  position: absolute;
+  top: 820px;
+}
+.access{
+  height: 100px;
+  width: 350px;
+  position: absolute;
+  left: 250px;
+  text-align: center;
+  color: white;
+}
+.Security{
+  height: 100px;
+  width: 380px;
+  color: white;
+  position: absolute;
+  right: 250px;
+  text-align: center;
+  }
+.real{
+  height: 100px;
+  width: 420px;
+  color: white;
+  position: absolute;
+  top: 300px;
+  left: 250px;
+  text-align: center;
+}
+.store{
+  height: 100px;
+  width: 370px;
+  color: white;
+  position: absolute;
+  top: 300px;;
+  right: 250px;
+  text-align: center;
+}
+.sc{
+  margin-top: 9px;
+}
+.design2{
+  color: white;
+  position: absolute;
+  top: 600px;
+  left: 100px;
+  width: 1240px;
+}
+.design2img{
+  float: left;
+  margin-right: 75px;
+}
+.design2h{
+margin-top: 100px;
+}
+.quotes{
+  position: absolute;
+  top: 1200px;
+  left: 120px;
+}
+.box1{
+  position: absolute;
+  top: 1240px;
+  left: 130px;
+  width: 350px;
+  height: 200px;
+  background-color: #202a3c;
+  color: white;
+  }
+.box2{
+  position: absolute;
+  top: 1240px;
+  left: 550px;
+  width: 350px;
+  height: 200px;
+  background-color: #202a3c;
+  color: white;
+}
+.box3{
+  position: absolute;
+  top: 1240px;
+  right: 120px;
+  width: 350px;
+  height: 200px;
+  background-color: #202a3c;
+  color: white;
+}
+.b1in{
+
+  width: 300px;
+  margin-top: 45px;
+  margin-left: 35px;
+
+}
+.b2in{
+
+  width: 300px;
+  margin-top: 45px;
+  margin-left: 35px;
+}
+.b3in{
+
+  width: 300px;
+  margin-top: 45px;
+  margin-left: 35px;
+}
+.profile1{
+
+  position: absolute;
+  width: 700px;
+
+}
+.pro1img{
+  border-radius: 100%;
+  position: absolute;
+  left: 35px;
+
+}
+.pro1h{
+
+  position: absolute;
+  left: 75px;
+  margin-top: 0;
+  width: 30%;
+}
+.pro1p{
+  position: absolute;
+  font-size: 11px;
+  margin-top: 18px;
+  left: 75px;
+}
+.profile2{
+
+  position: absolute;
+  width: 700px;
+
+}
+.pro2img{
+  border-radius: 100%;
+  position: absolute;
+  left: 35px;
+
+}
+.pro2h{
+
+  position: absolute;
+left: 75px;
+  margin-top: 0;
+
+}
+.pro2p{
+  position: absolute;
+  font-size: 11px;
+  margin-top: 18px;
+  left: 75px;
+}
+.profile3{
+
+  position: absolute;
+  width: 700px;
+
+}
+.pro3img{
+  border-radius: 100%;
+  position: absolute;
+  left: 35px;
+
+}
+.pro3h{
+
+  position: absolute;
+left: 75px;
+  margin-top: 0;
+
+}
+.pro3p{
+  position: absolute;
+  font-size: 11px;
+margin-top: 18px;
+left: 75px;
+}
+.attribution {
+
+   background-color: #0b1523;
+   width: 1440px;
+   height: 500px;
+   position: absolute;
+   bottom: 0;
+   color: white;
+ }
+ .div1{
+   width: 400px;
+   position: absolute;
+   top: 220px;
+   left: 100px;
+ }
+
+ .locimg{
+   float: left;
+   margin-top: 5px;
+   margin-bottom: 35px;
+   margin-right: 15px;
+
+ }
+ .loc1{
+   width: 80%;
+ }
+ .div2{
+   width: 250px;
+   position: absolute;
+   top: 290px;
+   left: 500px;
+ }
+ .phoneimg{
+   float: left;
+   margin-top: 2px;
+   margin-bottom: 5px;
+   margin-right: 15px;
+ }
+ .phone1{
+   margin-top: 0;
+ }
+.emailimg{
+  margin-top: 15px;
+  float: left;
+  margin-right: 15px;
+}
+.email1{
+  margin-top: 25px;
+}
+.div3{
+  position: absolute;
+   top: 270px;
+  right: 600px;
+
+}
+.div4{
+  position: absolute;
+ top: 270px;
+  right: 400px;
+}
+.div5{
+  position: absolute;
+  top: 270px;
+  right: 100px;
+}
+.fb{
+          border-radius: 100%;
+          border-style: solid ;
+          border-color: white;
+          padding: 10px;
+          margin: 10px;
+        }
+.tw{
+          border-radius: 100%;
+          border-style: solid ;
+          border-color: white;
+          padding: 10px;
+          margin: 10px;
+        }
+.inst{
+          border-radius: 100%;
+          border-style: solid ;
+          border-color: white;
+          padding: 10px;
+          margin: 10px;
+        }
+.endbox{
+  color: white;
+  text-align: center;
+  height: 300px;
+  width: 800px;
+  position: absolute;
+  bottom: 380px;
+  left: 270px;
+  background-color: #1c2431;
+  border-radius: 10px;
+}
+.endp{
+
+  margin: 10px 80px auto 80px;
+
+}
+.blank{
+  width: 400px;
+  height: 50px;
+  background-color: white;
+  position: absolute;
+  bottom: 50px;
+  left: 65px;
+  border-radius: 50px;
+}
+.blank2{
+  display: inline-block;
+  width: 225px;
+  height: 50px;
+  background-image: linear-gradient(to right,#65e2d9,#339ecc);
+  position: absolute;
+  bottom: 50px;
+  right:  70px;
+  border-radius: 50px;
+}
+.pb2{
+  font-weight: 700;
+  font-family: 'Raleway', sans-serif;
+}
+.arrow{
+float: right;
+margin-top: -30px;
+margin-right: 400px;
+}
+.hr1{
+  height: 1.5px;
+  background-color: #65e2d9;
+  border-style: none;
+  margin-top: -10px;
+  margin-left: 0;
+  width: 150px;
+
+}
